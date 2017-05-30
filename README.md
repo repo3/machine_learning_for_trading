@@ -1,2 +1,2 @@
 # machine_learning_for_trading
-solution for exercise
+solution for exercises
